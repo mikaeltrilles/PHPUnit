@@ -52,4 +52,4 @@ Recupérons les dernières versions de PHPUnit depuis Packagist.
 composer require phpunit/phpunit
 ```
 
-![LGTM Grade](https://img.shields.io/lgtm/grade/php/github/mikaeltrilles/PHPUnit?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/mikaeltrilles/PHPUnit)
