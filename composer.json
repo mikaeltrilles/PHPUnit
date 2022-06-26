@@ -1,0 +1,19 @@
+{
+    "name": "phpunit/cours",
+    "description": "Bonjour, ceci est le cours de test unitaire avec  PHPUnit, durant la session de Formation DWWM 2022.",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Phpunit\\Cours\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mikael Trilles",
+            "email": "11914687-mkaeltrilles@users.noreply.gitlab.com"
+        }
+    ],
+    "require": {}
+}
